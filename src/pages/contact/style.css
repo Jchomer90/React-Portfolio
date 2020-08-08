@@ -1,0 +1,8 @@
+body {
+    background-image: url(../../images/wallpaper.jpeg);
+}
+
+.contactForm {
+    width: 40%;
+    margin-bottom: 10%;
+}

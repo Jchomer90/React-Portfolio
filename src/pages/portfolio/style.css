@@ -1,0 +1,22 @@
+body {
+    background-image: url(../../images/wallpaper.jpeg);
+}
+
+.container {
+    width: 300%;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+}
+
+.col {
+    margin-bottom: 100px;
+
+}
+
+.card {
+    padding: 20px;
+    margin: 20px;
+    position: flex;
+}
+
+

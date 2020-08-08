@@ -1,0 +1,20 @@
+body {
+    width: 100%;
+    background-image: url(../../images/wallpaper.jpeg);
+}
+
+.cardProfile {
+    padding: 20px;
+    /* margin-bottom: 200px; */
+}
+
+.container {
+    margin-bottom: 150px;
+}
+
+.image {
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 10px;
+}
