@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.2ccd6d99.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.266ef95e.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.266ef95e.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
+    "static/js/2.5969fced.chunk.js": "/React-Portfolio/static/js/2.5969fced.chunk.js",
+    "static/js/2.5969fced.chunk.js.map": "/React-Portfolio/static/js/2.5969fced.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.58ecea6745fba2c4fc06a36b38296862.js": "/React-Portfolio/precache-manifest.58ecea6745fba2c4fc06a36b38296862.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.2ccd6d99.chunk.css.map": "/React-Portfolio/static/css/main.2ccd6d99.chunk.css.map",
+    "static/js/2.5969fced.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.5969fced.chunk.js.LICENSE.txt",
+    "static/media/RESUME.pdf": "/React-Portfolio/static/media/RESUME.82578242.pdf",
+    "static/media/screenShot1.jpeg": "/React-Portfolio/static/media/screenShot1.b0b109f7.jpeg",
+    "static/media/screenShot2.jpeg": "/React-Portfolio/static/media/screenShot2.89c40585.jpeg",
+    "static/media/screenShot3.jpeg": "/React-Portfolio/static/media/screenShot3.a33be98a.jpeg",
+    "static/media/screenShot4.jpeg": "/React-Portfolio/static/media/screenShot4.03e00409.jpeg",
+    "static/media/screenShot5.jpeg": "/React-Portfolio/static/media/screenShot5.ae7ab212.jpeg",
+    "static/media/screenShot6.jpeg": "/React-Portfolio/static/media/screenShot6.996b4805.jpeg",
+    "static/media/screenShot7.jpeg": "/React-Portfolio/static/media/screenShot7.36779afc.jpeg",
+    "static/media/screenShot8.jpeg": "/React-Portfolio/static/media/screenShot8.9b7af745.jpeg",
+    "static/media/screenshot.jpeg": "/React-Portfolio/static/media/screenshot.1e8d356d.jpeg",
+    "static/media/style.css": "/React-Portfolio/static/media/wallpaper.78ee9c8a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.266d4783.js",
+    "static/js/2.5969fced.chunk.js",
+    "static/css/main.2ccd6d99.chunk.css",
+    "static/js/main.266ef95e.chunk.js"
+  ]
+}
