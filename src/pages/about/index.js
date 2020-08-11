@@ -6,9 +6,8 @@ import Resume from "./RESUME.pdf";
 function About(){
     return (
         <>
-        <h2>About</h2>
         <main className="container container-fluid">
-        <section className="card mt-3 ml-5 border cardProfile w-75">
+        <section className="card mt-3 ml-5 border cardProfile w-50">
             <div className="card-header">
                 <h5 className="card-title">Joshua Homer</h5>
             </div>

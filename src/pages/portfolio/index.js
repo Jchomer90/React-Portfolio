@@ -12,9 +12,6 @@ import screenShot8 from "../../images/screenShot8.jpeg";
 function Portfolio() {
     return (
         <>
-            <header>
-                Portfolio
-            </header>
             <div className="container">
             
                 <div className="col mb-20">
